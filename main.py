@@ -1,1 +1,1 @@
-a = lambda "hello world"
+a = lambda : "hello world"
